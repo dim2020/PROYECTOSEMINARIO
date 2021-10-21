@@ -1,2 +1,4 @@
 # PROYECTOSEMINARIO
 SISTEMADEINVENTARIOWEB
+Proyecto  seminario  de Tecnologias
+UMG 2021
